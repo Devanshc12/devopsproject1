@@ -17,13 +17,7 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
-  <servers>
-        <server>
-            <id>nexus_spring</id>
-            <username>admin</username>
-            <password>De@12345678</password>
-        </server>
-  </servers>
+ 
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
